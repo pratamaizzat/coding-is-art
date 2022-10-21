@@ -1,8 +1,8 @@
 # coding-is-art
 
-- [ ] Entity Relation Diagram
-  - [ ] Traditional
-  - [ ] IDEF1X
+- [x] Entity Relation Diagram
+  - [x] Traditional
+  - [x] IDEF1X
 - [ ] Basis Data
   - [ ] SQL
   - [ ] NoSQL
