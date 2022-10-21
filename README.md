@@ -6,4 +6,5 @@
 - [ ] Basis Data
   - [ ] SQL
   - [ ] NoSQL
+- [ ] Basic HTML
 - [ ] Coming Soon
